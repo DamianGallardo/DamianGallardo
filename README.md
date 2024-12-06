@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&width=435&lines=Hi+i'm+Damian" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&width=435&lines=Hi+i'm+Damian+Gallardo" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 -👋 I'm a frontend developer specializing in React and Next.
