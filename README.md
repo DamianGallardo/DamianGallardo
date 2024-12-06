@@ -4,15 +4,8 @@
 # 💫 About Me:
 -👋 I'm a frontend developer specializing in React and Next.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/damian-gallardo-b29aa1261) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DamianGallardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DamianGallardo&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianGallardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -33,3 +26,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DamianGallardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DamianGallardo&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianGallardo&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
